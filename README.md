@@ -8,7 +8,7 @@ This repository contains my university Data Structures and Algorithms assignment
 - Stacks & Queues
 - Trees
 - Sorting Algorithms
-- Searching Algorithms
+- oop
 
 ## Languages Used
 - Java
